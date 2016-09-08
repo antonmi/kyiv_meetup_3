@@ -1,0 +1,3 @@
+%{"espec": {:hex, :espec, "1.0.1", "0f6a4f6be512f078a0528082d43196bcd687701dfa68a0865baf1d186430eb85", [:mix], [{:meck, "~> 0.8.4", [hex: :meck, optional: false]}]},
+  "gen_stage": {:hex, :gen_stage, "0.5.0", "758068f3a81286e342a609d668e9624714c2e4d43cc26699ead04d1680fde6c6", [:mix], []},
+  "meck": {:hex, :meck, "0.8.4", "59ca1cd971372aa223138efcf9b29475bde299e1953046a0c727184790ab1520", [:rebar, :make], []}}

@@ -29,7 +29,7 @@ defmodule Telegram.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:espec, "~> 1.0.1", only: :test},
+      {:espec, "~> 1.1.0", only: :test},
       {:gen_stage, "0.5.0"}
     ]
   end

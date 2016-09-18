@@ -1,8 +1,8 @@
-defmodule Telegram.Mixfile do
+defmodule Dispatchers.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :telegram,
+    [app: :dispatchers,
      version: "0.1.0",
      elixir: "~> 1.4-dev",
      build_embedded: Mix.env == :prod,
